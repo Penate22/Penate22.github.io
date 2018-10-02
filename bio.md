@@ -11,5 +11,5 @@
 4. 2016 Moved to Iwakuni Japan 
 5. 2018 Started school at University of Maryland
 
-![Picture of me with some of workers](Myself)
+![Picture of me with some of workers](Myself.jpg)
 [Home](index)
