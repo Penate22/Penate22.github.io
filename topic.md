@@ -1,6 +1,6 @@
 [[Home]](index.html)
 
-####Motherly 
+#Motherly 
 
 By Sharnaya Penate
 
