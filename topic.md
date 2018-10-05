@@ -4,6 +4,7 @@
 
 By Sharnaya Penate
 
+![Picture of my kids](mykids.jpg)
 
 I love my kids the most.
 
